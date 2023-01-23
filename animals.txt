@@ -4,5 +4,4 @@ What is the largest sea mammal?;Sperm Whale;Great White Shark;Tuna;Walrus;1
 Which animal has black and white stripes?;Zebra;Lion;Hippo;American Bufallo;1
 Which animal has the biggest bite?;Tarantula;Lion;Hippo;Tiger Shark;3
 Which animal is the most domesticated and kept as a pet?;Dog;Cat;Pig;Cows;1
-What is the most dangerous cat in the world?;Lion;Jaguar;Black-footed Cat;Panther;3
-8. 
+What is the most dangerous cat in the world?;Lion;Jaguar;Black-footed Cat;Panther;
